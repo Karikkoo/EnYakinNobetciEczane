@@ -1,7 +1,0 @@
-{
-  "name": "Nöbetçi Eczane Bulucu",
-  "description": "Yapay zeka ve Google Haritalar destekli, konumunuza en yakın nöbetçi eczaneyi bulan ve yol tarifi için QR kod oluşturan uygulama.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
